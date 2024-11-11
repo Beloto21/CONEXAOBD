@@ -22,10 +22,10 @@
 ![Console EclipseIDE](assets/Inserindo.png)
 
 * Alunos Inseridos
-![Console EclipseIDE](assets/InserindoAlunos.png)
+![Console EclipseIDE](assets/InserirAlunos.png)
 
 * Atualizando os alunos
-![Console EclipseIDE](assets/Atualizando.png)
+![Console EclipseIDE](assets/AtualizandoAlunos.png)
 
 * Deletando os alunos
 ![Console EclipseIDE](assets/DeletandoAluno.png)
