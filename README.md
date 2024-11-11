@@ -25,7 +25,7 @@
 ![Console EclipseIDE](assets/InserirAlunos.png)
 
 * Atualizando os alunos
-![Console EclipseIDE](assets/AtualizandoAlunos.png)
+![Console EclipseIDE](assets/AtualizandoAluno.png)
 
 * Deletando os alunos
 ![Console EclipseIDE](assets/DeletandoAluno.png)
